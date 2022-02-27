@@ -4,10 +4,10 @@ Website link: https://covistatt.azurewebsites.net/
 
 Snapshots of Website
 
-![1](https://user-images.githubusercontent.com/75263348/143900913-2f1eb4e2-4d2f-406f-bb97-7438b08ece96.png)
+![image 1](https://user-images.githubusercontent.com/71547654/155889901-314232d6-fded-4096-8ebf-e89e0d47c109.png)
 
-![image](https://user-images.githubusercontent.com/75263348/143901572-80c202f6-7e47-4018-bce3-82c2c019d5cf.png)
+![image 2](https://user-images.githubusercontent.com/71547654/155889917-02e10d9d-afbf-4af5-8187-828e444d0bcb.png)
 
-![image](https://user-images.githubusercontent.com/75263348/143902604-908c6b55-4084-466f-82c9-0dc59c84f1cb.png)
+![image 3](https://user-images.githubusercontent.com/71547654/155889925-975b16f0-e45c-46da-8fff-d2bb054e167f.png)
 
-![image](https://user-images.githubusercontent.com/75263348/143903113-be5572ea-6cde-4f41-9794-91bd2930b77a.png)
+![image 4](https://user-images.githubusercontent.com/71547654/155889942-93d05230-6bf6-4853-a38a-7d1706073cec.png)
