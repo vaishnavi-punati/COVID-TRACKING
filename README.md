@@ -11,4 +11,3 @@ Snapshots of Website
 ![image](https://user-images.githubusercontent.com/75263348/143902604-908c6b55-4084-466f-82c9-0dc59c84f1cb.png)
 
 ![image](https://user-images.githubusercontent.com/75263348/143903113-be5572ea-6cde-4f41-9794-91bd2930b77a.png)
-![Screenshot (641)](https://user-images.githubusercontent.com/71547654/155869969-5a054350-b00d-40a9-9d6a-ed281848f432.png)
