@@ -1,4 +1,4 @@
-Select desired State, Category(confirmed, deceased, recovered....), Data Type(cumulative, daily), date range and a graph gets displayed according to the input given.
+By giving desired State, Category(confirmed, deceased, recovered....), Data Type(cumulative, daily), date range as an input the data gets displayed in the form of interactive graphs.
 
 Website link: https://covistatt.azurewebsites.net/
 
